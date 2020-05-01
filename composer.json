@@ -1,5 +1,5 @@
 {
-    "name": "jjoswig/AzureTranslator",
+    "name": "jjoswig/azure-translator",
     "description": "AzureTranslator plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "GPL",

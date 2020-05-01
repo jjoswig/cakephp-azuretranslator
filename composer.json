@@ -2,7 +2,7 @@
     "name": "jjoswig/azure-translator",
     "description": "AzureTranslator plugin for CakePHP",
     "type": "cakephp-plugin",
-    "license": "GPL",
+    "license": "GPL-3.0-only",
     "require": {
         "cakephp/cakephp": "^4.0"
     },
